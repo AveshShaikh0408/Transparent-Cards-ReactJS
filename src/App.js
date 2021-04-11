@@ -5,7 +5,7 @@ import Details from './components/Details';
 function App() {
   return (
     <div className="App">
-      <h1 class="heading">Transparent Card using React JS</h1>
+      <h1 class="heading">Transparent Card using React JS and HTML, CSS</h1>
       <div class="container">
           {Details.map((Details) =>(
             <Card 
